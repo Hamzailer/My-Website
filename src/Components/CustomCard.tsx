@@ -3,7 +3,7 @@ import Button from "react-bootstrap/Button";
 
 const CustomCard = (props: any) => {
   return (
-    <div className="" style={{ padding: "1.75rem" }}>
+    <div style={{ paddingLeft: "1.7rem", paddingRight: "1.7rem" }}>
       <Card style={{ width: "20.5rem" }}>
         <Card.Img variant="top" src={props.image} />
         <Card.Body>
