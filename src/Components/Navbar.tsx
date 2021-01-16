@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-has-content */
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 //import { Link } from "react-router-dom"
@@ -12,6 +13,13 @@ const NavBar = () => {
           <Nav.Link href="/">Home</Nav.Link>
           <Nav.Link href="/projects">Projects</Nav.Link>
           <Nav.Link href="/aboutme">About Me</Nav.Link>
+        </Nav>
+        <Nav className="ml-auto">
+          <a
+            style={{ color: "black" }}
+            href="https://www.twitter.com/HamzailerO"
+            className="fa fa-twitter"
+          ></a>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
