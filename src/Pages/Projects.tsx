@@ -14,7 +14,7 @@ function Projects() {
         <CustomCard
           title="Crystale"
           image="https://i.imgur.com/TPdGKD2.png"
-          content="A Game Revolving Around the player trying to collect the Crystals of Authority in order to defeat the Monster Overlord."
+          content="A Game revolving around the player trying to collect the Crystals Of Authority in order to defeat the Monster Overlord."
           link="https://gamejolt.com/games/Crystale/525941"
         />
       </Row>
