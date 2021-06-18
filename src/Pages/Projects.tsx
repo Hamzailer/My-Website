@@ -1,6 +1,4 @@
 import React from "react";
-import CustomCard from "../Components/CustomCard";
-import Row from "react-bootstrap/Row";
 import NavBar from "../Components/Navbar";
 
 function Projects() {
