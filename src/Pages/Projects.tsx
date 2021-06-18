@@ -10,8 +10,7 @@ function Projects() {
       <br />
       <h2 className="text-center">My Projects</h2>
       <br />
-      /*
-      <Row className="mx-auto">
+      {/*<Row className="mx-auto">
         <CustomCard
           title="Crystale"
           image="https://i.imgur.com/TPdGKD2.png"
@@ -19,7 +18,7 @@ function Projects() {
           link="https://gamejolt.com/games/Crystale/525941"
         />
       </Row>
-      */
+      */}
     </div>
   );
 }
